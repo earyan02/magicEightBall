@@ -37,3 +37,5 @@ switch (randomNumber) {
 }
 
 console.log(`The answer is ${eightBall}`);
+
+//comment
